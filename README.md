@@ -1,8 +1,8 @@
 # Informativa sulla privacy di zshare
 
-_Ultimo aggiornamento: [DATA]_
+_Ultimo aggiornamento: 11/10/2026_
 
-**Titolare / sviluppatore:** [TUO NOME O RAGIONE SOCIALE] – contatto: [TUA EMAIL]
+**Titolare / sviluppatore:** Andrea Zampa – contatto: zzsharez@gmail.com
 
 ## Quali dati tratta l'app
 zshare ti permette di annotare debiti e crediti con chi condivide con te abbonamenti (Netflix, Disney+, ecc.).
